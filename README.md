@@ -32,4 +32,4 @@ I build and run cloud backend services on Kubernetes: microservices, CI/CD, GitO
 > Most of my production work lives in private enterprise repos. The repos here are personal and learning projects.
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/divyansh-sharma-b0a751) · divyanshsharma361@gmail.com
+[LinkedIn](https://www.linkedin.com/in/divyansh-sharma-b0a751202) · divyanshsharma361@gmail.com
